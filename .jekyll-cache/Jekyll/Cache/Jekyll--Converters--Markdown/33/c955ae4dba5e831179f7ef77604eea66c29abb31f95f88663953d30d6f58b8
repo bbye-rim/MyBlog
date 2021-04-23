@@ -1,0 +1,25 @@
+I"<h1 id="프로필">프로필</h1>
+<hr />
+
+<h4 id="개인정보">개인정보</h4>
+<ul>
+  <li>제주대학교 컴퓨터공학전공 재학중</li>
+  <li>학번 : 2019108261</li>
+  <li>이름 : 백예림</li>
+</ul>
+
+<h4 id="자기소개">자기소개</h4>
+<p>저는 컴퓨터공학전공에 재학중인 학생입니다. 소프트웨어에 대해서 자세히 배우고 싶어서 왔는데, 요즘은 아두이노나 블록코딩에 관심이 많습니다. 많이 부족한 실력이지만 할 수 있는 한 최선을 다할 것입니다.<br />
+<!--줄바꿈하려면 띄어쓰기 최소 3번--></p>
+
+<h4 id="꿈">꿈</h4>
+<p>세계정복!!!</p>
+
+<h4 id="fork">Fork</h4>
+<ul>
+  <li><a href="https://github.com/bbye-rim/Java-game">https://github.com/bbye-rim/Java-game</a><br />
+게임을 직접 만들어 보고 싶었습니다.</li>
+  <li><a href="https://github.com/bbye-rim/realm-java">https://github.com/bbye-rim/realm-java</a><br />
+데이터베이스 구현에 realm을 사용하게 되어서 찾아보았습니다.</li>
+</ul>
+:ET
